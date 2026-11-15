@@ -26,6 +26,18 @@ finished, even when I seem to be asking for it, and even if working credentials 
 sitting right there. If something genuinely needs to go out, hand me the draft and I
 will send it myself.
 
+One narrow exception. Sending through Resend is allowed, to two kinds of address only:
+
+- Resend's own test addresses, the ones ending in `@resend.dev`.
+- My own email address.
+
+Nobody else. That includes every contact in `leads/`. Going through the Resend MCP
+server does not make a real person less of a real person.
+
+A guard will enforce this in the next step. It does not exist yet. Until I tell you it
+is in place, this rule is the only thing holding the line, so check the recipient
+against the two kinds above and ask me first if it is anything else.
+
 **3. Ask me before deleting anything.**
 The files here are the work. Before deleting or overwriting a file, tell me what will be
 lost and wait for my answer.
