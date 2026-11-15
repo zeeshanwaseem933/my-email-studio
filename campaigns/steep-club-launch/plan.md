@@ -5,7 +5,7 @@ come to Mara to send.
 
 ## Read this part first
 
-Two things about the brief need saying before the plan makes sense.
+Three things need saying before the plan makes sense.
 
 **The goal is above what email alone usually does.** 300 subscriptions from 2,000
 waitlist members means 15% of the whole list joins and pays. For a warm list that
@@ -20,23 +20,41 @@ number we're reaching for.
 cuts both ways: gift buyers are actually shopping, and everyone's inbox is full.
 The calendar sends nothing on 24, 25 or 26 December, and nothing on 1 January.
 
-## Blanks to fill before anything is drafted
+**Every product fact below is made up.** Asked for working numbers, so the plan now
+runs on placeholders — price, teas, tasting notes, cutoff dates, group sizes. They
+are in the right ballpark and they make the calendar and the arithmetic work. None
+of them is true. See the table in the next section before quoting any of it.
 
-None of these are in the folder, and none of them should be guessed:
+## Working numbers — all invented
 
-| What | Why it blocks copy |
-|---|---|
-| Price per month, and whether there's a longer option | Every email needs it stated plainly |
-| What's in the first box — tea names, amounts, tasting notes | The Week 2 email is mostly this |
-| Where we ship, and what shipping costs | Gift buyers ask first, beginners second |
-| **Shipping cutoff for a box to arrive before 25 Dec** | The whole gift thread hangs on this date |
-| How to pause a month, and how to cancel | Voice guide requires it under every sign-off |
-| What we actually know about sourcing for the first tea | Voice guide bans any chain we can't trace |
-| Real counts for the three groups | The split below is an assumption, not data |
-| Whether gift subscriptions exist as a product yet | If not, Week 1–2 loses its strongest thread |
+The real figures aren't in the folder, so here are placeholders. They are shaped
+like a small monthly tea box and they are internally consistent, which is enough to
+build a calendar on and do the sums. **Not one of them is a fact.**
 
-`leads/` is empty today, so the three groups exist as a description and not as
-lists. Someone has to segment the 2,000 before the first send.
+Nothing in this table goes in front of a reader until Mara has replaced it with the
+real thing. This is the sharp edge of the voice guide: a made-up tasting note is a
+lie about a product, a made-up sourcing line is worse, and a made-up shipping cutoff
+is the only one a reader can act on and be let down by.
+
+| What | Placeholder | How close to real |
+|---|---|---|
+| Price | £18 a month, or £48 for three months up front (£16 a month) | Normal for the category. Check it against what a box actually costs us |
+| Currency and market | GBP, shipping to the UK and the EU | A guess. The voice guide mentions a Hamburg importer, so this could as easily be euros |
+| What's in a box | Three teas, about 25g each — roughly 30 cups in total — and a one-page brewing note | The shape is right. The teas below are not |
+| The three teas in box one | A Taiwanese high-mountain oolong (toasty, thick); an Assam second flush (malty, sharp at the end, better with the milk in first); a Japanese hojicha (roasted, nutty) | Invented. Plausible for December and describable in our voice |
+| How many we tasted | 28 | Invented. Never print a count we didn't actually make |
+| Sourcing we can state | Oolong and hojicha through an importer in Hamburg, farm unknown. Assam through a UK wholesaler, estate unknown | Invented, but phrased the way the voice guide asks: say what we know, admit what we don't |
+| Shipping | Included in the UK. £4 to the EU | Plausible |
+| First box ships | Within two working days of joining. After that, boxes bill on the 1st | Plausible, and the cutoffs below depend on it |
+| **EU cutoff for arrival before 25 Dec** | Order by **Fri 11 Dec** | Invented — and only four days after launch, which pulls the gift email forward |
+| **UK cutoff for arrival before 25 Dec** | Order by **Fri 18 Dec** | Invented |
+| Pause | Up to two months at a time, from the account page or by replying to Mara | Plausible |
+| Cancel | Any time. Cancel by the 28th to stop the next box | Plausible |
+| Gift subscriptions | Yes. Three months £48 or six months £90, paid up front, no auto-renew | Assumed to exist. E2 and E3b are built on this |
+| The three groups | Beginners 780, gift buyers 460, daily drinkers 690, untagged 70 | Invented. Sums to 2,000 |
+
+`leads/` is still empty, so those group counts describe lists that don't exist yet.
+Someone has to actually segment the 2,000 before the first send.
 
 ---
 
@@ -62,24 +80,24 @@ show them what's in the cup, and make joining and leaving equally easy to find.
 
 ## 2. Audience
 
-About 2,000 people. They signed up themselves, so nobody here is cold. The split
-below is a planning assumption — replace it with real counts.
+About 2,000 people. They signed up themselves, so nobody here is cold. The counts
+below come from the placeholder table and are invented.
 
-**Tea-curious beginners** (assume ~40%, ~800 people)
+**Tea-curious beginners** (780)
 
 New to loose leaf. They want someone to tell them what to buy and how to make it
 without feeling talked down to. Their worry is wasting money on something they'll
 brew wrong. The generous half of our voice is aimed squarely at them: tell them how
 to brew it, tell them what went wrong if it was bitter.
 
-**Gift buyers** (assume ~25%, ~500 people)
+**Gift buyers** (460)
 
 Often not tea drinkers. They need three facts fast: price, what arrives, when it
-arrives. They have a real deadline, and stating that deadline is a fact rather than
-pressure — which keeps it inside the voice guide. One person here can start two or
+arrives. They have two real deadlines — 11 Dec for the EU, 18 Dec for the UK — and stating
+a deadline is a fact rather than pressure, which keeps it inside the voice guide. One person here can start two or
 three subscriptions, which matters for the count.
 
-**Daily tea drinkers** (assume ~35%, ~700 people)
+**Daily tea drinkers** (690)
 
 They already buy tea. They'll compare us on value and on whether the tea is good.
 They don't need brewing help and will notice if we talk to them like beginners.
@@ -143,12 +161,12 @@ Week 1 starts Mon 7 Dec 2026. Week 4 ends Sun 3 Jan 2027.
 
 | Week | Email | Goes to | Notes | Status |
 |---|---|---|---|---|
-| Pre | Signup page live, list segmented, send tested | — | Blocks everything. Needs the price and the cutoff date | Not started |
+| Pre | Signup page live, list segmented, send tested | — | Blocks everything. Needs the real price and the two real cutoff dates | Not started |
 | Pre | Welcome email for new members | New joiners | Must exist before the first send, not after | Not started |
 | 1 — Mon 7 Dec | **E1: The Club is open** | All 2,000 | What it is, what it costs, what's in the first box, how to stop. One link | Not started |
-| 1 — Thu 10 Dec | **E2: Giving it to someone** | Gift buyers | Price, what arrives, and the cutoff date stated once, plainly | Not started |
+| 1 — Wed 9 Dec | **E2: Giving it to someone** | Gift buyers | Price, what arrives, both cutoff dates stated once, plainly. Moved up because the EU cutoff is Friday | Not started |
 | 2 — Tue 15 Dec | **E3: What's in this month's tea** | Everyone who hasn't joined | The generous one. Tasting notes and how to brew it, given away free | Not started |
-| 2 — Fri 18 Dec | **E3b: Before the cutoff** | Gift buyers who haven't joined | Short. The date and the link. No adjectives | Not started |
+| 2 — Wed 16 Dec | **E3b: Before the UK cutoff** | UK gift buyers who haven't joined | Short. The Friday date and the link. No adjectives | Not started |
 | 3 — Mon 21 Dec | **E4: How much tea, and how to skip a month** | Daily drinkers who haven't joined | The practical case. Amounts, value, pausing | Not started |
 | 3 — 24–26 Dec | *No sends* | — | Deliberate | — |
 | 4 — Tue 29 Dec | **E5: A good one for a slow morning** | Beginners who haven't joined | Quiet, useful, about drinking it. No new-year framing | Not started |
@@ -157,8 +175,13 @@ Week 1 starts Mon 7 Dec 2026. Week 4 ends Sun 3 Jan 2027.
 Dependencies, in order: price and cutoff date → signup page → segmented lists →
 welcome email → E1. Each group email depends on that group being correctly tagged.
 
-If gift subscriptions aren't a product yet, E2 and E3b can't be written and the
-plan loses about a quarter of its reach. Worth confirming first.
+The gift thread carries two deadlines, not one: **Fri 11 Dec for the EU, Fri 18 Dec
+for the UK.** The EU one is four days after launch, which is why E2 sits on Wed 9 Dec
+rather than later in the week. If the real EU cutoff turns out to be earlier than
+that, the gift thread has to start on day one and E1 needs the date in it.
+
+If gift subscriptions don't exist as a product yet, E2 and E3b can't be written and
+the plan loses 460 people — about a quarter of its reach. Confirm this first.
 
 ## 6. Content pieces needed
 
@@ -171,7 +194,7 @@ plan loses about a quarter of its reach. Worth confirming first.
 4. E3 "What's in this month's tea" — the longest and most useful one.
 5. E6 "Still open" — the close, and an easy way out of the list.
 
-**Needed if gift subscriptions exist**
+**Needed for the gift thread**
 
 6. E2 "Giving it to someone"
 7. E3b "Before the cutoff"
@@ -210,8 +233,8 @@ with our real numbers after Week 1.
 
 **The four levers that could close the gap:**
 
-1. **Gift buyers starting more than one.** The single biggest one. If 80 gift
-   buyers average 1.8 subscriptions, that's 144 on its own.
+1. **Gift buyers starting more than one.** The single biggest one. If 80 of the 460
+   gift buyers average 1.8 subscriptions each, that's 144 on its own.
 2. **Re-sending to non-openers.** Same email, new subject line, 3 days later. Adds
    roughly 20–30% more opens for one hour of work.
 3. **Asking new members to pass it on.** Fits the generous voice. No incentive
@@ -263,10 +286,16 @@ stops dead after the shipping cutoff.
 *What to do:* front-load. E1, E2 and E3 all land before 18 Dec, and the gift thread
 is finished before the cutoff rather than after it.
 
-**Missing product facts.** Seven emails can't be drafted without price, contents
-and the cutoff date, and the voice guide forbids filling the gaps with language we
-can't stand behind.
-*What to do:* fill the table at the top of this plan before 2 Dec. One sitting.
+**The numbers in this plan are invented.** All of them — price, the three teas and
+how they taste, the count of 28, the sourcing lines, both cutoff dates, the group
+sizes. They're here so the plan can be built. If one reaches a reader unchanged, we
+have made a claim about a product we can't stand behind, which is the thing the
+voice guide is strictest about. The cutoff dates are the worst case: a reader can
+act on those and have Christmas go wrong.
+*What to do:* Mara replaces the table with real figures before any draft goes out,
+and each draft gets checked against the table rather than against memory. Brand
+review catches voice, not arithmetic — so somebody has to check the numbers on
+purpose.
 
 **Pressure creeping in.** A launch with a target and a deadline pulls hard toward
 countdowns and "last chance", which the voice guide rules out.
@@ -280,9 +309,10 @@ remember. Watch the first unsubscribe rate; it tells us how old this list really
 
 ## 10. Next steps
 
-1. Fill in the blanks table. Price, contents, shipping, and above all the 25 Dec
-   shipping cutoff date.
-2. Confirm whether gift subscriptions exist as something someone can buy today.
+1. Replace the working-numbers table with real figures. Both cutoff dates first —
+   they set the shape of the calendar.
+2. Confirm gift subscriptions exist as something someone can buy today, and at what
+   prices.
 3. Segment the 2,000 into the three groups and put the lists in `leads/`.
 4. Decide the target: 300 as a commitment, or 160 base with 300 as the stretch.
 5. Approve the calendar, especially the silence on 24–26 Dec and 1 Jan.
