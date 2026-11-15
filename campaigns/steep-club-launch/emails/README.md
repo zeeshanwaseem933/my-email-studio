@@ -44,6 +44,25 @@ out. That reminder lives here now, not inside the sentence in the draft.
 `{{first_name}}`, `{{company_address}}` and `{{unsubscribe_url}}` are different.
 Those are merge fields and the sending tool fills them. Leave them alone.
 
+## What the review left open, and what we are assuming
+
+The brand review on 15 Nov left six questions nobody in this folder can answer.
+These are the answers we are working to. Not one of them has been checked against
+anything, so each is an assumption rather than a fact.
+
+| Question | What we are assuming |
+|---|---|
+| Do gift subscriptions exist to buy, and does the page sell them? | Yes. Email 2 stands as drafted. Still item 2 below |
+| The two shipping cutoff dates | Fri 11 Dec for the EU, Fri 18 Dec for the UK, as in the plan |
+| Did anyone ask whether the Club works as a present? | Nobody counted, so the claim stays out of email 2 |
+| How many teas we tasted | 28, as in the plan |
+| Is there a source for the hojicha caffeine line? | No, so it stays out of email 3 |
+| Do E3b, E4 and E5 get written? | Not decided. Email 1 says "a few more times" rather than a number, which is true either way |
+
+None of the six changes the copy. The drafts already say all of them. The two that
+are numbers come from the plan working-numbers table, where they are marked
+invented, so they stay in square brackets until Mara has the real ones.
+
 ## Before any of these go out
 
 1. Replace every square bracket above, and check each draft against the plan's table
