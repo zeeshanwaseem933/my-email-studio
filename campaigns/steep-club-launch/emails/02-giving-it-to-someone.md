@@ -1,0 +1,37 @@
+Subject: Giving the Club to someone
+Preview: What arrives, what it costs, and the two dates to order by
+
+Hi {{first_name}},
+
+A few of you asked whether the Club works as a present. It does, so here are the
+facts in one place.
+
+**What arrives.** Three teas a month and a page on how to brew them, posted to
+whoever you're giving it to. [GIFT PACKAGING — placeholder: the first box carries a
+card with your message on it, and no prices anywhere in the parcel].
+
+**What it costs.** [GIFT PRICE — placeholder: £48 for three months, £90 for six,
+paid up front]. It doesn't renew on its own, so nobody gets a surprise charge in
+the spring.
+
+**When to order.** For a box to arrive before 25 December: [EU CUTOFF —
+placeholder: order by Friday 11 December for the EU] and [UK CUTOFF — placeholder:
+order by Friday 18 December for the UK]. After those dates it still works as a
+present, it just starts in January.
+
+If the person you have in mind doesn't drink much loose leaf yet, that's the easier
+case, not the harder one. The brewing note is written for someone starting out.
+
+[Give the Club](https://kettlebird.example/steep-club)
+
+Happy steeping,
+— Mara, Kettlebird Tea
+
+Reply to this email and it comes to me — including if you want to check whether
+something will arrive in time. A gift subscription [GIFT PAUSE/CANCEL —
+placeholder: doesn't auto-renew, so there's nothing to cancel; a subscription you
+start for yourself can be paused for up to two months at a time, or cancelled by
+the 28th to stop the next box].
+
+You're getting this because you joined the Kettlebird Tea waitlist.
+Kettlebird Tea, {{company_address}} · Unsubscribe: {{unsubscribe_url}}
