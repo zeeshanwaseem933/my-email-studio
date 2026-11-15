@@ -45,3 +45,9 @@ sequences, competitive briefs, SEO audits and performance reports.
 
 It is declared in `.claude/settings.json`, which is committed, so it loads for anyone
 who opens this folder.
+
+## Brand voice
+
+Our voice guide loads with every session:
+
+@brand/voice.md
