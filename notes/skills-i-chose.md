@@ -3,19 +3,28 @@
 Searched skills.sh on 15 Nov 2026 with `npx skills find` for: email marketing, email
 sequence, campaign plan, resend. Nothing installed yet — this is just the shortlist.
 
+Re-verified 15 Nov 2026 against the GitHub API and repo contents: install counts, stars,
+last-push dates, licences, skill-folder names, Snyk findings. One error found and fixed
+(see rule 4).
+
 ## Use these
 
-**1. Writing campaigns — `coreyhaines31/marketingskills@email-sequence`**
-(same repo also has `@emails` for one-off copy and `@cold-email` for outbound)
+**1. Writing campaigns — `coreyhaines31/marketingskills@emails`**
+(same repo also has `@cold-email` for outbound. This skill was called `@email-sequence`
+until 14 May 2026, commit 30f9b9a — skills.sh still serves that retired listing, but the
+folder is gone from the repo. Install `@emails`.)
 
 Published by Corey Haines, a real marketer with a public track record (github.com/coreyhaines31,
 corey.co, 3.8k followers). The repo has **60,404 GitHub stars**, was last updated 11 Nov 2026,
 is MIT licensed, and passes all three security audits shown on skills.sh (Gen Agent Trust Hub,
-Socket, Snyk). The sequence skill alone has 55.1k installs.
+Socket, Snyk). The skill has 89.1k installs. The retired `@email-sequence` listing separately shows
+55.1k — a lifetime total still accruing against a name that no longer exists, which is why
+it read as healthy for six months after the rename.
 
 Why it fits: it is about the thinking, not a vendor's API. It starts by asking what kind of
 sequence you want (welcome, nurture, re-engagement, post-purchase, sales…) and it reads a
-`product-marketing-context.md` file from your repo if you have one, so the copy picks up your
+`.agents/product-marketing.md` from your repo if you have one (`product-marketing-context.md`
+is the legacy name, still read as a fallback), so the copy picks up your
 product details instead of being generic. It is the single best-supported marketing skill set
 in the directory by a wide margin.
 
@@ -82,9 +91,16 @@ Also skipped for the same single-digit-stars reason: `mbfinotti/sales-skills` (3
 `mbfinotti/advertising-skills` (2 stars), plus the long tail of 40–300 install results
 (`arnabbagxd`, `rampstackco`, `minhnv0807`, `skills.volces.com`).
 
+**3. `open.feishu.cn@lark-mail` — the biggest number, and unassessable**
+
+900.6k installs: top result for "email marketing," 10× anything else here. Skipped — but not
+for the number, which is probably honest (Feishu is ByteDance's Lark, a real product with real
+users). Skipped because its skills.sh page 404s, so rule 3 can't be performed on it at all,
+and because it's Lark mailbox plumbing, not campaign tooling. Not on the official makers page.
+
 ## How I decided
 
-Three things to check on every skill before installing it:
+Four things to check on every skill before installing it:
 
 1. **Who actually publishes it.** Open the GitHub org or user, don't just read the handle.
    A handle can be named anything — `claude-office-skills` turned out to be "AGI Lab". The best
@@ -107,3 +123,9 @@ Three things to check on every skill before installing it:
    keys or env vars it reads, what files it touches, whether it sends anything outbound on its
    own. A skill runs with my permissions, so an email-sending skill deserves more scrutiny than
    a copywriting one.
+
+4. **Open the repo's `skills/` folder and confirm the skill is still there under that exact
+   name.** A listing page is a claim about a skill; the repo is the skill. `@email-sequence`
+   listed as perfectly healthy — 55.1k installs, three passing audits, repo pushed four days
+   earlier — half a year after the folder was renamed away. Listings carry retired names
+   forward indefinitely. `git log -- skills/<name>` settles it in one command.
