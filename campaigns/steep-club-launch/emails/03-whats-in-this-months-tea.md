@@ -3,7 +3,7 @@ Preview: How to brew all three, and what to do if one of them comes out bitter
 
 Hi {{first_name}},
 
-This is the useful one. Below is what's in this month's box, what each tea tastes
+This one's all brewing. Below is what's in this month's tea, what each one tastes
 like, and how to make it. You don't have to join the Club to use any of it — if you
 have these teas already, or something like them, brew them this way and see.
 
@@ -22,21 +22,20 @@ best one.]
 first.]
 
 [BREWING 2 — placeholder: 3g to 250ml, boiling water, three minutes.] If it comes
-out bitter, it's almost always the time rather than the leaf. [BITTERNESS FIX 2 —
+out bitter, it's usually the time rather than the leaf. [BITTERNESS FIX 2 —
 placeholder: take thirty seconds off and try again before you change anything else.]
 
 **[TEA 3 — placeholder: Japanese hojicha]**
 
-[TASTING NOTE 3 — placeholder: Roasted and nutty. Very little caffeine, so it's a
-good one for a slow evening.]
+[TASTING NOTE 3 — placeholder: Roasted and nutty, with a bit of sweetness behind
+it. A good one for a slow evening.]
 
 [BREWING 3 — placeholder: 5g to 300ml, boiling water, 30 seconds. Hard to get
 wrong, which is why we put it in the first box.]
 
-We tasted [HOW MANY WE TASTED — placeholder: 28; only print a number we actually
-counted] teas before picking these three. [SOURCING — placeholder: two came through
-an importer in Hamburg and we don't know the farms; the Assam came through a UK
-wholesaler and we don't know the estate.]
+We tasted [HOW MANY WE TASTED — placeholder: 28] teas before picking these three.
+[SOURCING — placeholder: two came through an importer in Hamburg and we don't know
+the farms; the Assam came through a UK wholesaler and we don't know the estate.]
 
 [See this month's tea](https://kettlebird.example/steep-club)
 
@@ -45,9 +44,9 @@ Happy steeping,
 
 Reply to this email and it comes to me. If you try one of these and it goes wrong,
 tell me what you did and I'll tell you what I'd change. If you join, you can pause
-[PAUSE — placeholder: for up to two months at a time] from your account page or by
-asking me, and cancel any time [CANCEL — placeholder: by the 28th to stop the next
-box].
+the Club [PAUSE — placeholder: for up to two months at a time] from your account
+page or by asking me, and cancel any time [CANCEL — placeholder: by the 28th to
+stop the next box].
 
 You're getting this because you joined the Kettlebird Tea waitlist.
 Kettlebird Tea, {{company_address}} · Unsubscribe: {{unsubscribe_url}}

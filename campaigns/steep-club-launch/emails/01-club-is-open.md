@@ -15,7 +15,7 @@ This month we're sending [TEA 1 — placeholder: a Taiwanese high-mountain oolon
 toasty and thick in the mouth], [TEA 2 — placeholder: an Assam second flush, malty
 and sharp at the end, better with the milk in first] and [TEA 3 — placeholder: a
 Japanese hojicha, roasted and nutty]. We tasted [HOW MANY WE TASTED — placeholder:
-28; only print a number we actually counted] before picking those three.
+28] teas before picking those three.
 
 What we know about where they came from: [SOURCING — placeholder: the oolong and
 the hojicha came through an importer in Hamburg, and we don't know the farm. The
@@ -28,15 +28,15 @@ working days. After that, boxes bill on the 1st].
 [Join the Club](https://kettlebird.example/steep-club)
 
 If it isn't for you, that's genuinely fine. You'll hear from us a few more times
-this month and then we'll stop.
+about this, and then we'll stop.
 
 Happy steeping,
 — Mara, Kettlebird Tea
 
 Reply to this email and it comes to me. You can pause the Club [PAUSE —
-placeholder: for up to two months at a time] from your account page, or just ask me
-and I'll do it. You can cancel any time: [CANCEL — placeholder: cancel by the 28th
-and the next box doesn't come]. No phone call, no form.
+placeholder: for up to two months at a time] from your account page or by asking
+me, and cancel any time [CANCEL — placeholder: by the 28th to stop the next box].
+No phone call, no form.
 
 You're getting this because you joined the Kettlebird Tea waitlist.
 Kettlebird Tea, {{company_address}} · Unsubscribe: {{unsubscribe_url}}

@@ -66,6 +66,34 @@ email. Keep `{{company_address}}` and `{{unsubscribe_url}}` as they are. The
 sending tool fills them in. A missing address or a broken unsubscribe link is a
 legal problem, not a style one.
 
+## Placeholders hold facts, not sentences
+
+A square bracket holds something that has to be checked — a price, a date, a
+tasting note. It never holds the sentence around it. Write the sentence so it
+still works once the bracket is swapped for the real thing:
+
+    You can pause the Club [PAUSE — placeholder: for up to two months at a
+    time] from your account page or by asking me.
+
+Not this, where deleting the bracket takes the meaning with it:
+
+    A gift subscription [GIFT PAUSE/CANCEL — placeholder: doesn't auto-renew,
+    so there's nothing to cancel].
+
+This matters most for the pause and cancel lines. If they only exist inside a
+bracket, a careless replace deletes them and the email still looks finished.
+
+Notes to whoever is editing go in the folder's README, never inside a sentence
+the reader will see.
+
+## Anything invented is a placeholder
+
+If a line states something as true — a number, a date, a price, something a
+reader did — it is either true or it is a labelled placeholder, never an
+invented sentence in plain prose. "A few of you asked whether the Club works as
+a present" looks like ordinary copy, so the sweep for square brackets before
+sending walks straight past it — and nobody counted those people.
+
 ## Still true here
 
 Everything in [CLAUDE.md](../../CLAUDE.md) and the voice guide applies to these

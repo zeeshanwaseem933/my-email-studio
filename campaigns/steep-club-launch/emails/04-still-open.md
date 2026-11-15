@@ -17,7 +17,7 @@ And if you've read these and decided it isn't for you — that's a real answer a
 won't keep asking. The unsubscribe link at the bottom takes one click and no
 questions. We'd rather have a smaller list of people who want to hear from us.
 
-Either way, thank you for the month.
+Either way, thank you for reading these.
 
 Happy steeping,
 — Mara, Kettlebird Tea

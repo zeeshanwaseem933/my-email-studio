@@ -35,10 +35,11 @@ act on and be let down by.
 **The teas** — `[TEA 1]`, `[TEA 2]`, `[TEA 3]`, `[TASTING NOTE 1-3]`,
 `[BREWING 1-3]`, `[BITTERNESS FIX 2]`, `[HOW MANY WE TASTED]`, `[SOURCING]`
 
-**Terms** — `[PAUSE]`, `[CANCEL]`, `[GIFT PAUSE/CANCEL]`, `[GIFT PACKAGING]`
+**Terms** — `[PAUSE]`, `[CANCEL]`, `[GIFT RENEWAL]`, `[GIFT PACKAGING]`
 
 `[HOW MANY WE TASTED]` needs a number someone actually counted, or the line comes
-out. `[SOURCING]` says what we know and admits what we don't — keep that shape.
+out. That reminder lives here now, not inside the sentence in the draft.
+`[SOURCING]` says what we know and admits what we don't — keep that shape.
 
 `{{first_name}}`, `{{company_address}}` and `{{unsubscribe_url}}` are different.
 Those are merge fields and the sending tool fills them. Leave them alone.
@@ -47,7 +48,8 @@ Those are merge fields and the sending tool fills them. Leave them alone.
 
 1. Replace every square bracket above, and check each draft against the plan's table
    rather than against memory.
-2. Confirm gift subscriptions actually exist to buy before sending number 2.
+2. Confirm gift subscriptions actually exist to buy before sending number 2, and
+   that its link lands somewhere you can actually buy one.
 3. Run `/marketing:brand-review` on each draft. That catches voice, not arithmetic —
    somebody still has to check the numbers on purpose.
 4. Check the signup page is live and that price and cancel terms are visible on it.

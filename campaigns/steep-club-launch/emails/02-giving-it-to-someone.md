@@ -3,12 +3,12 @@ Preview: What arrives, what it costs, and the two dates to order by
 
 Hi {{first_name}},
 
-A few of you asked whether the Club works as a present. It does, so here are the
-facts in one place.
+The Club works as a present, and the gift version is a bit different from the
+normal one. Here are the facts in one place.
 
 **What arrives.** Three teas a month and a page on how to brew them, posted to
 whoever you're giving it to. [GIFT PACKAGING — placeholder: the first box carries a
-card with your message on it, and no prices anywhere in the parcel].
+card with your message on it, and no prices anywhere in it].
 
 **What it costs.** [GIFT PRICE — placeholder: £48 for three months, £90 for six,
 paid up front]. It doesn't renew on its own, so nobody gets a surprise charge in
@@ -28,10 +28,11 @@ Happy steeping,
 — Mara, Kettlebird Tea
 
 Reply to this email and it comes to me — including if you want to check whether
-something will arrive in time. A gift subscription [GIFT PAUSE/CANCEL —
-placeholder: doesn't auto-renew, so there's nothing to cancel; a subscription you
-start for yourself can be paused for up to two months at a time, or cancelled by
-the 28th to stop the next box].
+something will arrive in time. A gift subscription [GIFT RENEWAL — placeholder:
+doesn't renew on its own, so there's nothing to cancel]. If you start one for
+yourself, you can pause the Club [PAUSE — placeholder: for up to two months at a
+time] from your account page or by asking me, and cancel any time [CANCEL —
+placeholder: by the 28th to stop the next box].
 
 You're getting this because you joined the Kettlebird Tea waitlist.
 Kettlebird Tea, {{company_address}} · Unsubscribe: {{unsubscribe_url}}
